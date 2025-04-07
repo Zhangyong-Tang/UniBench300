@@ -19,8 +19,14 @@ Then unzip other files into this dictory.
 
 ![image](results-unibench300.png)
 
-# Code
+# Results
 
 ```bash
 To make this work more convincing, the result files of original, mixed, and CL-boosted versions on LasHeR, DepthTrack, and VisEvent are provided. (SymTrack*)
+```
+
+# Code
+
+```bash
+Since the proposed continual unification process mainly differs in the trainng stage, the core training file for configuration is provided (base-t.yaml)
 ```
