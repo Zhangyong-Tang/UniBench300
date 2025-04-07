@@ -22,7 +22,8 @@ Then unzip other files into this dictory.
 # Results
 
 ```bash
-To make this work more convincing, the result files of original, mixed, and CL-boosted versions on LasHeR, DepthTrack, and VisEvent are provided. (SymTrack*)
+To make this work more convincing, the result files of original, mixed, and CL-boosted versions on LasHeR,
+DepthTrack, and VisEvent are provided. (SymTrack*)
 ```
 
 # Code
@@ -35,5 +36,6 @@ To make this work more convincing, the result files of original, mixed, and CL-b
 
 
 ```bash
-Since the proposed continual unification process mainly differs in the trainng stage, the core training file for configuration is provided (base-t.yaml)
+Since the proposed continual unification process mainly differs in the trainng stage,
+the core training file for configuration is provided (base-t.yaml)
 ```
