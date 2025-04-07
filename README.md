@@ -3,7 +3,7 @@
 Limited by the file size, the whole UniBench300 can not be shared here.
 Thus only sevral samples are displayed here.
 
-![image](https://github.com/Zhangyong-Tang/UniBench300/blob/main/vis.pdf)
+![image](vis.png)
 
 ```bash
 UniBench300 contains RGBT, RGBD, and RGBE data simultaneously.
