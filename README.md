@@ -27,6 +27,13 @@ To make this work more convincing, the result files of original, mixed, and CL-b
 
 # Code
 
+|  Stage|Initialised| Involved Data | Save Model|
+|--|--|--|--|
+|  1|Random| VisEvent |SymTrack-e.pth.tar|
+|  2| SymTrack-e.pth.tar|VisEvent, LasHeR |SymTrack-et.pth.tar|
+|  3| SymTrack-et.pth.tar|VisEvent, LasHeR, DepthTrack |SymTrack-etd.pth.tar|
+
+
 ```bash
 Since the proposed continual unification process mainly differs in the trainng stage, the core training file for configuration is provided (base-t.yaml)
 ```
