@@ -27,7 +27,7 @@ To make this work more convincing, the result files of original, mixed, and CL-b
 
 # Code
 
-|  Stage|Initialised| Involved Data | Save Model|
+|  Stage|Initialised| Involved Data | Saved Model|
 |--|--|--|--|
 |  1|Random| VisEvent |SymTrack-e.pth.tar|
 |  2| SymTrack-e.pth.tar|VisEvent, LasHeR |SymTrack-et.pth.tar|
